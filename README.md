@@ -12,7 +12,7 @@ You should also provide some representation of the analytic you wish to measure 
 
 ### Output
 
-Output is an xlxs heatmap file with tabs according to funnel stage. It looks something like cohortAnalysis.xlsx
+Output is an xlxs heatmap file with tabs according to funnel stage. The output looks as below. Week/period on the x and cohort on the y.
 
 
 ![alt text](https://github.com/andrew0harney/cohortAnalysis/raw/master/images/cohortAnalysis.png "Example Cohort Analysis")
