@@ -17,4 +17,4 @@ Output is an xlxs heatmap file with tabs according to funnel stage. The output l
 
 ![alt text](https://github.com/andrew0harney/cohortAnalysis/raw/master/images/cohortAnalysis.png "Example Cohort Analysis")
 
-Enjoy responsibly
+For any EF companies who take a look - Enjoy responsibly :)
