@@ -55,18 +55,6 @@ class FunnelAnalysis:
 
         return result
 
-def _register(cohort, events):
-    return cohort.userprofile_set.all().count()
-
-def _start_tutorial(cohort, events):
-    return events.filter(type='tutorial', value='start').distinct('user').count()
-
-def _extension_auth(cohort, events):
-    return events.filter(type='extension_authorisation_granted').distinct('user').count()
-
-def _complete_tutorial(cohort,events):
-    return events.filter(type='tutorial', value='finish').distinct('user').count()
-
 
 def _construct_filter(conditions):
     queries = [Q(**terms) for terms in conditions]
