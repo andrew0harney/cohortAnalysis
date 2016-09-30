@@ -4,7 +4,7 @@ You will probably need to modify this quite a bit for you use case, but hopefull
 
 ### Usage
 The main class is funnelAnalsysis. You can simply add stages in your funnel by providing stage functions to this class.
-Stage functions should give counts of the metric being measured (see _start_scouting() as an example)
+Stage functions should return counts of the metric being measured given the paramters cohort/user group and events (see _start_scouting() as an example).
 
 You should provide some representation of the users in each cohort (see models.Cohort)
 You should also provide some representation of the analytic you wish to measure for the funnel stage (see models.AnalyticsEvent for example)
