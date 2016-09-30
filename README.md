@@ -1,6 +1,6 @@
 ### Overview
-A sample of django code to product an upper triangular heatmap of cohort analysis. Each tab is an analysis for a stage in your funnel.
-You will probabably need to modify this quite a bit for you use case, but hopefully it will give you some useful pointers.
+A sample of Django code to product an upper triangular heatmap of cohort analysis. Each tab is an analysis for a stage in your funnel.
+You will probably need to modify this quite a bit for you use case, but hopefully it will give you some useful pointers.
 
 ### Usage
 The main class is funnelAnalsysis. You can simply add stages in your funnel by providing stage functions to this class.
