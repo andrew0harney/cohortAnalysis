@@ -1,5 +1,5 @@
 ### Overview
-A sample of Django code to product an upper triangular heatmap of cohort analysis. Each tab is an analysis for a stage in your funnel.
+A sample of Django code to produce an upper triangular heatmap of cohort analysis. Each tab is an analysis for a stage in your funnel.
 You will probably need to modify this quite a bit for you use case, but hopefully it will give you some useful pointers.
 
 ### Usage
