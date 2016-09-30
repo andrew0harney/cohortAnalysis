@@ -15,4 +15,4 @@ You should also provide some representation of the analytic you wish to measure 
 Output is an xlxs heatmap file with tabs according to funnel stage. It looks something like cohortAnalysis.xlsx
 
 
-![alt text](https://github.com/andrew0harney/cohortAnalysis/master/images/cohortAnalysis.png "Example Cohort Analysis")
+![alt text](https://github.com/andrew0harney/cohortAnalysis/raw/master/images/cohortAnalysis.png "Example Cohort Analysis")
